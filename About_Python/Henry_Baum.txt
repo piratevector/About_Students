@@ -1,0 +1,17 @@
+My name is Henry Andrew Baum
+
+I'm currently a senior at Hunter College, majoring in Computer Science
+and minoring in Mathematics (despite being terrible at it). Most of my professional
+experience with software engineering and development has been creating full-stack
+web apps, using popular frameworks such as React, Flask, Django, and Express. Lately,
+I've been working on the expand my experience by introducing Android App development,
+and was able to create a full stack Android app for my capstone project.
+
+As this is my last semester at Hunter (fingers crossed), my plans afterwards aren't
+as clear as I would want them to be, but I'm hoping to land a job or contract work
+that I would be able to contribute my knowledge and skills as well presented
+opportunities to expand into other fields such as data mining or machine learning.
+
+Outside of that, I'm a licensed massage therapist for New York City for over ten years.
+My hobbies include creating electronic music, playing rouge-like video games, and
+enjoy watching professional wrestling.
