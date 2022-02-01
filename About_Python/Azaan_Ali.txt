@@ -1,0 +1,1 @@
+Hello, My name is Azaan Ali and I am a senior at Hunter College. I am currently working on creating a ray tracing render, a gameboy emulator, and eventually a realistic graphics engine. My hobbies include video games and baseketball. My dream vacation is towards Japan, or somewhere in the cold north to go skiing.
