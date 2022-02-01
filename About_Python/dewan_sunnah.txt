@@ -1,0 +1,7 @@
+My name is Dewan Sunnah. I am an aspiring software developer. 
+I started learning python as a sophomore in high school. We did 
+a lot with python but that was a long time ago so I've definitely 
+forgot most of it. The most advance thing I've done with python was 
+when I took a graphics class during senior year back in high school.
+However, I've been doing Leetcode in bot python and C++ for the past 
+year or so to keep my python skills up to par. 
