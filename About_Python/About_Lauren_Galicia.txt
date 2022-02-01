@@ -1,9 +1,0 @@
-I'm Lauren, a Computer Science major.
-I have completed a major in Classical Studies, as well as minors in Psychology and Sociology.
-
-At the start of the pandemic, I learned how to make interactive, game-style social media "filters" using JavaScript,
-and the first one I published, "Never Have I Ever," went viral on Instagram.
-Soon after, Comedy Central and Wikipedia commissioned me to make custom versions,
-and since then, I've been freelancing as an AR developer.
-
-In my free time, I enjoy scripting automations using Python, AppleScript, and iOS Shortcuts.
