@@ -1,0 +1,4 @@
+Hello, my name is Moris Goldshtein and I am currently a junior studying Computer Science in Hunter College. For a long time, I thought I knew my aspirations,
+but over the last few months, this has been shaken and now I am very uncertain. I enjoy philosophical conversations and playing games with friends. This will be
+a new venture for me given my inexperience with Python, but hopefully this will show me something that I will be passionate about and want to consider for the 
+future.

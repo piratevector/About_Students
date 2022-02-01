@@ -1,0 +1,4 @@
+Hi, my name is Israel Arcos. I am from Ecuador. I am majoring in Computer Science.
+I am in my last year of my career and I would like to dedicate myself to the world of sports. 
+That is, I would like to use programming to help athletes improve their performance. 
+In particular, I love cycling, so I'm looking to do computational modeling to establish the best routes, speed, etc. 

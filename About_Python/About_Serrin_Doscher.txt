@@ -1,0 +1,12 @@
+Hello my name is Serrin Doscher, I should be graduating this year.
+I have not yet found my passion for Computer Science but I'm sticking with it and will look for work in the feild after I graduate.
+My hobbies involve gaming, coding and making custom assets for the games I play.
+Last semester I did my first big project making a Game Engine in C++.
+I made my first website as well. 
+
+I live in Brooklyn with my girlfriend.
+I currently work at Brooklyn Game Labs where I teach board games to kids.
+I have not decided what my career path is going to be, I'm kind of up for anything; although I am very interested in Web Dev.
+
+My favorite video game franchises are Souls games (especially Bloodborne), Portal, and Legend of Zelda.
+I have made custom cards for games I play with friends on Tabletop Simulator and build environments for us to play in.
